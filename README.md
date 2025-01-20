@@ -56,6 +56,8 @@ If you'd like to suggest improvements, share feedback, or contribute to this rep
 ### Recommended Resource
 For web development basics, check out this YouTube video: [HTML & CSS Full Course](https://www.youtube.com/watch?v=HGTJBPNC-Gw)
 
+Consider reading the book **"HTML and CSS: Design and Build Websites" by Jon Duckett**. It's an excellent resource for beginners to learn web development visually and practically.
+
 
 
 ## License
