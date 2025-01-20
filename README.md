@@ -52,5 +52,11 @@ If you'd like to suggest improvements, share feedback, or contribute to this rep
 
 
 
+
+### Recommended Resource
+For web development basics, check out this YouTube video: [HTML & CSS Full Course](https://www.youtube.com/watch?v=HGTJBPNC-Gw)
+
+
+
 ## License
 This project is licensed under the [MIT License](LICENSE).
