@@ -16,29 +16,28 @@ The purpose of this repository is to document my journey in learning programming
 - Explore various programming languages and tools.
 
 ## Project List
-1. **Basic Python Programs**  
+1. **Basic Python Programs**
    Small programs to learn Python syntax and structure.
-   
-2. **Data Structures and Algorithms**  
+
+2. **Data Structures and Algorithms**
    Exercises and implementations to master DSA.
-   
-3. **Web Development Basics**  
+
+3. **Web Development Basics**
    Developing simple web apps with HTML, CSS, and JavaScript.
-   
-4. **API Projects**  
+
+4. **API Projects**
    Hands-on projects using APIs and integrating them into applications.
-   
-5. **Machine Learning Experiments**  
+
+5. **Machine Learning Experiments**
    Exploring ML concepts and implementing basic models.
 
-6. **Version Control Practice**  
+6. **Version Control Practice**
    Learning Git and GitHub basics to manage source code effectively.
 
 ## Getting Started
 To clone this repository and start working on the projects:
 ```bash
-git clone https://github.com/your-username/learning-projects.git
-cd learning-projects
+git clone https://github.com/LittlePitza/html-css-steps
 ```
 
 You will need to install the required dependencies for each project. Refer to individual project directories for specific instructions.
