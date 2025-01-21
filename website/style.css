@@ -1,0 +1,66 @@
+body {
+    margin: 0; /* Removes the default margin around the body element */
+    padding: 0; /* Removes the default padding inside the body element */
+    font-family: 'Roboto', sans-serif; /* Sets the font of the text to 'Roboto' with a fallback to sans-serif */
+    background-color: #f4f4f4; /* Sets a light grey background color for the body */
+    color: #333; /* Sets the text color to a dark grey */
+    line-height: 1.6; /* Adjusts the spacing between lines of text to improve readability */
+}
+
+
+.even{
+        background-color: #e0f7fa; /* Light cyan background for contrast */
+        border: 1px solid #006064; /* Thin border with darker cyan color */
+        border-radius: 5px; /* Rounded corners for a softer look */
+        padding: 10px 15px; /* Adds spacing inside the element */
+        margin: 10px 0; /* Adds vertical spacing between elements */
+        font-size: 16px; /* Increases font size for better readability */
+        color: #004d40; /* Dark teal text color for harmony */
+        text-align: center; /* Centers the text within the element */
+    }
+
+.odd {
+        background-color: mediumpurple; /* Light yellow background for contrast */
+        border: 1px solid mediumpurple; /* Thin border with darker yellow color */
+        border-radius: 5px; /* Rounded corners for a softer look */
+        padding: 10px 15px; /* Adds spacing inside the element */
+        margin: 10px 0; /* Adds vertical spacing between elements */
+        font-size: 16px; /* Increases font size for better readability */
+        color: whitesmoke; /* Dark amber text color for harmony */
+        text-align: center; /* Centers the text within the element */
+    }
+
+/*#p1 {*/
+/*    margin: 5px 0 8px; !* Adjusted margin for variation *!*/
+/*    padding: 2px; !* Added slight padding *!*/
+/*    font-size: 15px; !* Slightly reduced font size *!*/
+/*    color: #666; !* Slightly lighter grey *!*/
+/*}*/
+
+/*#p2 {*/
+/*    margin: 10px 5px 15px; !* Different margin configuration *!*/
+/*    padding: 0; !* No padding *!*/
+/*    font-size: 14px; !* Smaller font size *!*/
+/*    color: #444; !* Darker grey text *!*/
+/*}*/
+
+/*#p3 {*/
+/*    margin: 0; !* Removed margin *!*/
+/*    padding: 5px; !* Added distinct padding *!*/
+/*    font-size: 17px; !* Larger font size *!*/
+/*    color: #333; !* Dark text color *!*/
+/*}*/
+
+/*#p4 {*/
+/*    margin: 8px 10px; !* Balanced margin on sides *!*/
+/*    padding: 3px 2px; !* Uneven padding *!*/
+/*    font-size: 16px; !* Default font size for readability *!*/
+/*    color: #777; !* Lighter grey *!*/
+/*}*/
+
+/*#p5 {*/
+/*    margin: 12px 0 0; !* Top margin adjustment *!*/
+/*    padding: 1px 4px; !* Subtle padding variation *!*/
+/*    font-size: 13px; !* Smaller text for contrast *!*/
+/*    color: #888; !* Lightest grey tone *!*/
+/*}*/
