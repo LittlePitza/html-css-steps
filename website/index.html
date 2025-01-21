@@ -10,18 +10,15 @@
     <!-- Sets the title of the webpage -->
 </head>
 <body>
-<!-- Wraps the link with an anchor tag that directs the user to Google -->
-<a href="https://google.com">
-    <!-- Creates a styled button inside the link -->
-    <button style="font-size: 20px; padding: 10px 20px; background: linear-gradient(to right, #4CAF50, #81C784);
-        color: white; border: none; border-radius: 8px; cursor: pointer;
-        box-shadow: 0 4px 6px rgba(0, 0, 0, 0.2); transition: transform 0.2s,
-        box-shadow 0.2s;"
-        onmouseover="this.style.transform='scale(1.1)'; this.style.boxShadow='0 6px 8px rgba(0, 0, 0, 0.3)';"
-        onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='0 4px 6px rgba(0, 0, 0, 0.2)';">
-        <!-- Defines the text displayed inside the button -->
-        Click Me
-    </button>
-</a>
+    <form action="index.php" method="POST">
+        <label for="username">Username:</label>
+        <input type="text" id="username">
+
+        <label for="password">Password:</label>
+        <input type="password" id="password"><br>
+
+        <input type="reset">
+        <input type="submit">
+    </form>
 </body>
 </html>
