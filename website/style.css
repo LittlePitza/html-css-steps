@@ -30,6 +30,11 @@ body {
         text-align: center; /* Centers the text within the element */
     }
 
+#p1{
+    font-family: Roboto Thin, sans-serif;
+    font-size: 100px;
+}
+
 /*#p1 {*/
 /*    margin: 5px 0 8px; !* Adjusted margin for variation *!*/
 /*    padding: 2px; !* Added slight padding *!*/
